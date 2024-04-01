@@ -1,0 +1,91 @@
+,video_name,tag
+0,DATASET/TEST/Anomaly/v080_converted.mp4,Anomaly
+1,DATASET/TEST/Anomaly/v081_converted.mp4,Anomaly
+2,DATASET/TEST/Anomaly/v082_converted.mp4,Anomaly
+3,DATASET/TEST/Anomaly/v083_converted.mp4,Anomaly
+4,DATASET/TEST/Anomaly/v084_converted.mp4,Anomaly
+5,DATASET/TEST/Anomaly/v085_converted.mp4,Anomaly
+6,DATASET/TEST/Anomaly/v086_converted.mp4,Anomaly
+7,DATASET/TEST/Anomaly/v087_converted.mp4,Anomaly
+8,DATASET/TEST/Anomaly/v088_converted.mp4,Anomaly
+9,DATASET/TEST/Anomaly/v089_converted.mp4,Anomaly
+10,DATASET/TEST/Anomaly/v090_converted.mp4,Anomaly
+11,DATASET/TEST/Anomaly/v091_converted.mp4,Anomaly
+12,DATASET/TEST/Anomaly/v092_converted.mp4,Anomaly
+13,DATASET/TEST/Anomaly/v093_converted.mp4,Anomaly
+14,DATASET/TEST/Anomaly/v094_converted.mp4,Anomaly
+15,DATASET/TEST/Anomaly/v095_converted.mp4,Anomaly
+16,DATASET/TEST/Anomaly/v096_converted.mp4,Anomaly
+17,DATASET/TEST/Anomaly/v097_converted.mp4,Anomaly
+18,DATASET/TEST/Anomaly/v098_converted.mp4,Anomaly
+19,DATASET/TEST/Anomaly/v099_converted.mp4,Anomaly
+20,DATASET/TEST/Anomaly/v100_converted.mp4,Anomaly
+21,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 18_14.mp4,Bad Footage
+22,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 18_30.mp4,Bad Footage
+23,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_11.mp4,Bad Footage
+24,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_12.mp4,Bad Footage
+25,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_18.mp4,Bad Footage
+26,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_19.mp4,Bad Footage
+27,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_30.mp4,Bad Footage
+28,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_4.mp4,Bad Footage
+29,DATASET/TEST/Bad Footage/chunk_Cam_3_Feb 22_5.mp4,Bad Footage
+30,DATASET/TEST/Empty/chunk_Cam2_29.mp4,Empty
+31,DATASET/TEST/Empty/chunk_Cam3_1.mp4,Empty
+32,DATASET/TEST/Empty/chunk_Cam3_10.mp4,Empty
+33,DATASET/TEST/Empty/chunk_Cam3_11.mp4,Empty
+34,DATASET/TEST/Empty/chunk_Cam3_12.mp4,Empty
+35,DATASET/TEST/Empty/chunk_Cam3_13.mp4,Empty
+36,DATASET/TEST/Empty/chunk_Cam3_2.mp4,Empty
+37,DATASET/TEST/Empty/chunk_Cam3_20.mp4,Empty
+38,DATASET/TEST/Empty/chunk_Cam3_21.mp4,Empty
+39,DATASET/TEST/Empty/chunk_Cam3_22.mp4,Empty
+40,DATASET/TEST/Empty/chunk_Cam3_23.mp4,Empty
+41,DATASET/TEST/Empty/chunk_Cam3_24.mp4,Empty
+42,DATASET/TEST/Empty/chunk_Cam3_25.mp4,Empty
+43,DATASET/TEST/Empty/chunk_Cam3_26.mp4,Empty
+44,DATASET/TEST/Empty/chunk_Cam3_27.mp4,Empty
+45,DATASET/TEST/Empty/chunk_Cam3_28.mp4,Empty
+46,DATASET/TEST/Empty/chunk_Cam3_29.mp4,Empty
+47,DATASET/TEST/Empty/chunk_Cam3_3.mp4,Empty
+48,DATASET/TEST/Empty/chunk_Cam3_30.mp4,Empty
+49,DATASET/TEST/Empty/chunk_Cam3_4.mp4,Empty
+50,DATASET/TEST/Empty/chunk_Cam3_5.mp4,Empty
+51,DATASET/TEST/Empty/chunk_Cam3_6.mp4,Empty
+52,DATASET/TEST/Empty/chunk_Cam3_7.mp4,Empty
+53,DATASET/TEST/Empty/chunk_Cam3_8.mp4,Empty
+54,DATASET/TEST/Empty/chunk_Cam3_9.mp4,Empty
+55,DATASET/TEST/Full/chunk_Cam_2_Feb 22_19.mp4,Full
+56,DATASET/TEST/Full/chunk_Cam_2_Feb 22_26.mp4,Full
+57,DATASET/TEST/Full/chunk_Cam_2_Feb 22_30.mp4,Full
+58,DATASET/TEST/Full/chunk_Cam_3_Feb 18_10.mp4,Full
+59,DATASET/TEST/Full/chunk_Cam_3_Feb 18_2.mp4,Full
+60,DATASET/TEST/Full/chunk_Cam_3_Feb 18_21.mp4,Full
+61,DATASET/TEST/Full/chunk_Cam_3_Feb 18_28.mp4,Full
+62,DATASET/TEST/Full/chunk_Cam_3_Feb 18_29.mp4,Full
+63,DATASET/TEST/Full/chunk_Cam_3_Feb 22_15.mp4,Full
+64,DATASET/TEST/Full/chunk_Cam_3_Feb 22_16.mp4,Full
+65,DATASET/TEST/Full/chunk_Cam_3_Feb 22_20.mp4,Full
+66,DATASET/TEST/Normal/chunk_Cam1_1.mp4,Normal
+67,DATASET/TEST/Normal/chunk_Cam1_2.mp4,Normal
+68,DATASET/TEST/Normal/chunk_Cam1_24.mp4,Normal
+69,DATASET/TEST/Normal/chunk_Cam1_25.mp4,Normal
+70,DATASET/TEST/Normal/chunk_Cam1_26.mp4,Normal
+71,DATASET/TEST/Normal/chunk_Cam1_29.mp4,Normal
+72,DATASET/TEST/Normal/chunk_Cam1_3.mp4,Normal
+73,DATASET/TEST/Normal/chunk_Cam1_4.mp4,Normal
+74,DATASET/TEST/Normal/chunk_Cam2_11.mp4,Normal
+75,DATASET/TEST/Normal/chunk_Cam2_22.mp4,Normal
+76,DATASET/TEST/Normal/chunk_Cam2_23.mp4,Normal
+77,DATASET/TEST/Normal/chunk_Cam2_27.mp4,Normal
+78,DATASET/TEST/Normal/chunk_Cam2_30.mp4,Normal
+79,DATASET/TEST/Normal/chunk_Cam2_5.mp4,Normal
+80,DATASET/TEST/Normal/chunk_Cam2_6.mp4,Normal
+81,DATASET/TEST/Normal/chunk_Cam2_7.mp4,Normal
+82,DATASET/TEST/Normal/chunk_Cam3_14.mp4,Normal
+83,DATASET/TEST/Normal/chunk_Cam3_15.mp4,Normal
+84,DATASET/TEST/Normal/chunk_Cam3_16.mp4,Normal
+85,DATASET/TEST/Normal/chunk_Cam3_17.mp4,Normal
+86,DATASET/TEST/Normal/chunk_Cam3_18.mp4,Normal
+87,DATASET/TEST/Normal/chunk_Cam3_19.mp4,Normal
+88,DATASET/TEST/Normal/chunk_Cam_3_Feb 22_27.mp4,Normal
+89,DATASET/TEST/Normal/chunk_Cam_3_Feb 22_28.mp4,Normal

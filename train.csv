@@ -1,0 +1,352 @@
+,video_name,tag
+0,DATASET/TRAIN/Anomaly/v001_converted.mp4,Anomaly
+1,DATASET/TRAIN/Anomaly/v002_converted.mp4,Anomaly
+2,DATASET/TRAIN/Anomaly/v003_converted.mp4,Anomaly
+3,DATASET/TRAIN/Anomaly/v004_converted.mp4,Anomaly
+4,DATASET/TRAIN/Anomaly/v006_converted.mp4,Anomaly
+5,DATASET/TRAIN/Anomaly/v007_converted.mp4,Anomaly
+6,DATASET/TRAIN/Anomaly/v008_converted.mp4,Anomaly
+7,DATASET/TRAIN/Anomaly/v009_converted.mp4,Anomaly
+8,DATASET/TRAIN/Anomaly/v010_converted.mp4,Anomaly
+9,DATASET/TRAIN/Anomaly/v011_converted.mp4,Anomaly
+10,DATASET/TRAIN/Anomaly/v012_converted.mp4,Anomaly
+11,DATASET/TRAIN/Anomaly/v013_converted.mp4,Anomaly
+12,DATASET/TRAIN/Anomaly/v014_converted.mp4,Anomaly
+13,DATASET/TRAIN/Anomaly/v015_converted.mp4,Anomaly
+14,DATASET/TRAIN/Anomaly/v016_converted.mp4,Anomaly
+15,DATASET/TRAIN/Anomaly/v017_converted.mp4,Anomaly
+16,DATASET/TRAIN/Anomaly/v018_converted.mp4,Anomaly
+17,DATASET/TRAIN/Anomaly/v019_converted.mp4,Anomaly
+18,DATASET/TRAIN/Anomaly/v020_converted.mp4,Anomaly
+19,DATASET/TRAIN/Anomaly/v021_converted.mp4,Anomaly
+20,DATASET/TRAIN/Anomaly/v022_converted.mp4,Anomaly
+21,DATASET/TRAIN/Anomaly/v023_converted.mp4,Anomaly
+22,DATASET/TRAIN/Anomaly/v024_converted.mp4,Anomaly
+23,DATASET/TRAIN/Anomaly/v025_converted.mp4,Anomaly
+24,DATASET/TRAIN/Anomaly/v026_converted.mp4,Anomaly
+25,DATASET/TRAIN/Anomaly/v027_converted.mp4,Anomaly
+26,DATASET/TRAIN/Anomaly/v028_converted.mp4,Anomaly
+27,DATASET/TRAIN/Anomaly/v029_converted.mp4,Anomaly
+28,DATASET/TRAIN/Anomaly/v030_converted.mp4,Anomaly
+29,DATASET/TRAIN/Anomaly/v031_converted.mp4,Anomaly
+30,DATASET/TRAIN/Anomaly/v032_converted.mp4,Anomaly
+31,DATASET/TRAIN/Anomaly/v033_converted.mp4,Anomaly
+32,DATASET/TRAIN/Anomaly/v034_converted.mp4,Anomaly
+33,DATASET/TRAIN/Anomaly/v035_converted.mp4,Anomaly
+34,DATASET/TRAIN/Anomaly/v036_converted.mp4,Anomaly
+35,DATASET/TRAIN/Anomaly/v037_converted.mp4,Anomaly
+36,DATASET/TRAIN/Anomaly/v038_converted.mp4,Anomaly
+37,DATASET/TRAIN/Anomaly/v039_converted.mp4,Anomaly
+38,DATASET/TRAIN/Anomaly/v040_converted.mp4,Anomaly
+39,DATASET/TRAIN/Anomaly/v041_converted.mp4,Anomaly
+40,DATASET/TRAIN/Anomaly/v042_converted.mp4,Anomaly
+41,DATASET/TRAIN/Anomaly/v043_converted.mp4,Anomaly
+42,DATASET/TRAIN/Anomaly/v044_converted.mp4,Anomaly
+43,DATASET/TRAIN/Anomaly/v045_converted.mp4,Anomaly
+44,DATASET/TRAIN/Anomaly/v046_converted.mp4,Anomaly
+45,DATASET/TRAIN/Anomaly/v047_converted.mp4,Anomaly
+46,DATASET/TRAIN/Anomaly/v048_converted.mp4,Anomaly
+47,DATASET/TRAIN/Anomaly/v049_converted.mp4,Anomaly
+48,DATASET/TRAIN/Anomaly/v050_converted.mp4,Anomaly
+49,DATASET/TRAIN/Anomaly/v051_converted.mp4,Anomaly
+50,DATASET/TRAIN/Anomaly/v052_converted.mp4,Anomaly
+51,DATASET/TRAIN/Anomaly/v053_converted.mp4,Anomaly
+52,DATASET/TRAIN/Anomaly/v054_converted.mp4,Anomaly
+53,DATASET/TRAIN/Anomaly/v055_converted.mp4,Anomaly
+54,DATASET/TRAIN/Anomaly/v056_converted.mp4,Anomaly
+55,DATASET/TRAIN/Anomaly/v057_converted.mp4,Anomaly
+56,DATASET/TRAIN/Anomaly/v058_converted.mp4,Anomaly
+57,DATASET/TRAIN/Anomaly/v059_converted.mp4,Anomaly
+58,DATASET/TRAIN/Anomaly/v060_converted.mp4,Anomaly
+59,DATASET/TRAIN/Anomaly/v061_converted.mp4,Anomaly
+60,DATASET/TRAIN/Anomaly/v062_converted.mp4,Anomaly
+61,DATASET/TRAIN/Anomaly/v063_converted.mp4,Anomaly
+62,DATASET/TRAIN/Anomaly/v064_converted.mp4,Anomaly
+63,DATASET/TRAIN/Anomaly/v065_converted.mp4,Anomaly
+64,DATASET/TRAIN/Anomaly/v066_converted.mp4,Anomaly
+65,DATASET/TRAIN/Anomaly/v067_converted.mp4,Anomaly
+66,DATASET/TRAIN/Anomaly/v068_converted.mp4,Anomaly
+67,DATASET/TRAIN/Anomaly/v069_converted.mp4,Anomaly
+68,DATASET/TRAIN/Anomaly/v070_converted.mp4,Anomaly
+69,DATASET/TRAIN/Anomaly/v071_converted.mp4,Anomaly
+70,DATASET/TRAIN/Anomaly/v072_converted.mp4,Anomaly
+71,DATASET/TRAIN/Anomaly/v073_converted.mp4,Anomaly
+72,DATASET/TRAIN/Anomaly/v074_converted.mp4,Anomaly
+73,DATASET/TRAIN/Anomaly/v075_converted.mp4,Anomaly
+74,DATASET/TRAIN/Anomaly/v076_converted.mp4,Anomaly
+75,DATASET/TRAIN/Anomaly/v077_converted.mp4,Anomaly
+76,DATASET/TRAIN/Anomaly/v078_converted.mp4,Anomaly
+77,DATASET/TRAIN/Anomaly/v079_converted.mp4,Anomaly
+78,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_1.mp4,Bad Footage
+79,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_10.mp4,Bad Footage
+80,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_11.mp4,Bad Footage
+81,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_12.mp4,Bad Footage
+82,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_13.mp4,Bad Footage
+83,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_14.mp4,Bad Footage
+84,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_15.mp4,Bad Footage
+85,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_16.mp4,Bad Footage
+86,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_17.mp4,Bad Footage
+87,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_18.mp4,Bad Footage
+88,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_19.mp4,Bad Footage
+89,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_2.mp4,Bad Footage
+90,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_20.mp4,Bad Footage
+91,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_21.mp4,Bad Footage
+92,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_22.mp4,Bad Footage
+93,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_23.mp4,Bad Footage
+94,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_24.mp4,Bad Footage
+95,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_25.mp4,Bad Footage
+96,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_26.mp4,Bad Footage
+97,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_27.mp4,Bad Footage
+98,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_28.mp4,Bad Footage
+99,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_29.mp4,Bad Footage
+100,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_3.mp4,Bad Footage
+101,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_30.mp4,Bad Footage
+102,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_4.mp4,Bad Footage
+103,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_5.mp4,Bad Footage
+104,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_6.mp4,Bad Footage
+105,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_7.mp4,Bad Footage
+106,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_8.mp4,Bad Footage
+107,DATASET/TRAIN/Bad Footage/chunk_Cam_3_Feb 11_9.mp4,Bad Footage
+108,DATASET/TRAIN/Empty/chunk_Cam1_10.mp4,Empty
+109,DATASET/TRAIN/Empty/chunk_Cam1_11.mp4,Empty
+110,DATASET/TRAIN/Empty/chunk_Cam1_12.mp4,Empty
+111,DATASET/TRAIN/Empty/chunk_Cam1_13.mp4,Empty
+112,DATASET/TRAIN/Empty/chunk_Cam1_14.mp4,Empty
+113,DATASET/TRAIN/Empty/chunk_Cam1_15.mp4,Empty
+114,DATASET/TRAIN/Empty/chunk_Cam1_16.mp4,Empty
+115,DATASET/TRAIN/Empty/chunk_Cam1_17.mp4,Empty
+116,DATASET/TRAIN/Empty/chunk_Cam1_18.mp4,Empty
+117,DATASET/TRAIN/Empty/chunk_Cam1_19.mp4,Empty
+118,DATASET/TRAIN/Empty/chunk_Cam1_20.mp4,Empty
+119,DATASET/TRAIN/Empty/chunk_Cam1_21.mp4,Empty
+120,DATASET/TRAIN/Empty/chunk_Cam1_22.mp4,Empty
+121,DATASET/TRAIN/Empty/chunk_Cam1_23.mp4,Empty
+122,DATASET/TRAIN/Empty/chunk_Cam1_27.mp4,Empty
+123,DATASET/TRAIN/Empty/chunk_Cam1_28.mp4,Empty
+124,DATASET/TRAIN/Empty/chunk_Cam1_30.mp4,Empty
+125,DATASET/TRAIN/Empty/chunk_Cam1_5.mp4,Empty
+126,DATASET/TRAIN/Empty/chunk_Cam1_6.mp4,Empty
+127,DATASET/TRAIN/Empty/chunk_Cam1_7.mp4,Empty
+128,DATASET/TRAIN/Empty/chunk_Cam1_8.mp4,Empty
+129,DATASET/TRAIN/Empty/chunk_Cam1_9.mp4,Empty
+130,DATASET/TRAIN/Empty/chunk_Cam2_1.mp4,Empty
+131,DATASET/TRAIN/Empty/chunk_Cam2_10.mp4,Empty
+132,DATASET/TRAIN/Empty/chunk_Cam2_12.mp4,Empty
+133,DATASET/TRAIN/Empty/chunk_Cam2_13.mp4,Empty
+134,DATASET/TRAIN/Empty/chunk_Cam2_14.mp4,Empty
+135,DATASET/TRAIN/Empty/chunk_Cam2_15.mp4,Empty
+136,DATASET/TRAIN/Empty/chunk_Cam2_16.mp4,Empty
+137,DATASET/TRAIN/Empty/chunk_Cam2_17.mp4,Empty
+138,DATASET/TRAIN/Empty/chunk_Cam2_18.mp4,Empty
+139,DATASET/TRAIN/Empty/chunk_Cam2_19.mp4,Empty
+140,DATASET/TRAIN/Empty/chunk_Cam2_2.mp4,Empty
+141,DATASET/TRAIN/Empty/chunk_Cam2_20.mp4,Empty
+142,DATASET/TRAIN/Empty/chunk_Cam2_21.mp4,Empty
+143,DATASET/TRAIN/Empty/chunk_Cam2_24.mp4,Empty
+144,DATASET/TRAIN/Empty/chunk_Cam2_25.mp4,Empty
+145,DATASET/TRAIN/Empty/chunk_Cam2_26.mp4,Empty
+146,DATASET/TRAIN/Empty/chunk_Cam2_28.mp4,Empty
+147,DATASET/TRAIN/Empty/chunk_Cam2_3.mp4,Empty
+148,DATASET/TRAIN/Empty/chunk_Cam2_4.mp4,Empty
+149,DATASET/TRAIN/Empty/chunk_Cam2_8.mp4,Empty
+150,DATASET/TRAIN/Empty/chunk_Cam2_9.mp4,Empty
+151,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 11_28.mp4,Empty
+152,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_10.mp4,Empty
+153,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_14.mp4,Empty
+154,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_16.mp4,Empty
+155,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_25.mp4,Empty
+156,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_28.mp4,Empty
+157,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 18_7.mp4,Empty
+158,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_1.mp4,Empty
+159,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_10.mp4,Empty
+160,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_11.mp4,Empty
+161,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_12.mp4,Empty
+162,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_13.mp4,Empty
+163,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_14.mp4,Empty
+164,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_15.mp4,Empty
+165,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_16.mp4,Empty
+166,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_17.mp4,Empty
+167,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_18.mp4,Empty
+168,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_19.mp4,Empty
+169,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_2.mp4,Empty
+170,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_20.mp4,Empty
+171,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_21.mp4,Empty
+172,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_22.mp4,Empty
+173,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_23.mp4,Empty
+174,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_24.mp4,Empty
+175,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_25.mp4,Empty
+176,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_26.mp4,Empty
+177,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_27.mp4,Empty
+178,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_28.mp4,Empty
+179,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_29.mp4,Empty
+180,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_3.mp4,Empty
+181,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_30.mp4,Empty
+182,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_4.mp4,Empty
+183,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_5.mp4,Empty
+184,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_6.mp4,Empty
+185,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_7.mp4,Empty
+186,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_8.mp4,Empty
+187,DATASET/TRAIN/Empty/chunk_Cam_1_Feb 22_9.mp4,Empty
+188,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 11_1.mp4,Empty
+189,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 18_1.mp4,Empty
+190,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 18_10.mp4,Empty
+191,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 18_17.mp4,Empty
+192,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 18_29.mp4,Empty
+193,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 22_17.mp4,Empty
+194,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 22_2.mp4,Empty
+195,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 22_24.mp4,Empty
+196,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 22_29.mp4,Empty
+197,DATASET/TRAIN/Empty/chunk_Cam_2_Feb 22_5.mp4,Empty
+198,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 18_1.mp4,Empty
+199,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 18_16.mp4,Empty
+200,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 18_20.mp4,Empty
+201,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 18_23.mp4,Empty
+202,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 18_5.mp4,Empty
+203,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 22_17.mp4,Empty
+204,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 22_23.mp4,Empty
+205,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 22_29.mp4,Empty
+206,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 22_3.mp4,Empty
+207,DATASET/TRAIN/Empty/chunk_Cam_3_Feb 22_9.mp4,Empty
+208,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_1.mp4,Full
+209,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_10.mp4,Full
+210,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_11.mp4,Full
+211,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_12.mp4,Full
+212,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_13.mp4,Full
+213,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_15.mp4,Full
+214,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_16.mp4,Full
+215,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_2.mp4,Full
+216,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_20.mp4,Full
+217,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_21.mp4,Full
+218,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_22.mp4,Full
+219,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_24.mp4,Full
+220,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_26.mp4,Full
+221,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_30.mp4,Full
+222,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_6.mp4,Full
+223,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_7.mp4,Full
+224,DATASET/TRAIN/Full/chunk_Cam_1_Feb 11_9.mp4,Full
+225,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_17.mp4,Full
+226,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_18.mp4,Full
+227,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_23.mp4,Full
+228,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_29.mp4,Full
+229,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_30.mp4,Full
+230,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_5.mp4,Full
+231,DATASET/TRAIN/Full/chunk_Cam_1_Feb 18_6.mp4,Full
+232,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_10.mp4,Full
+233,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_11.mp4,Full
+234,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_3.mp4,Full
+235,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_6.mp4,Full
+236,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_7.mp4,Full
+237,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_8.mp4,Full
+238,DATASET/TRAIN/Full/chunk_Cam_2_Feb 11_9.mp4,Full
+239,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_15.mp4,Full
+240,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_16.mp4,Full
+241,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_18.mp4,Full
+242,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_22.mp4,Full
+243,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_26.mp4,Full
+244,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_27.mp4,Full
+245,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_4.mp4,Full
+246,DATASET/TRAIN/Full/chunk_Cam_2_Feb 18_5.mp4,Full
+247,DATASET/TRAIN/Full/chunk_Cam_2_Feb 22_15.mp4,Full
+248,DATASET/TRAIN/Full/chunk_Cam_2_Feb 22_18.mp4,Full
+249,DATASET/TRAIN/Full/chunk_Cam_2_Feb 22_6.mp4,Full
+250,DATASET/TRAIN/Full/chunk_Cam_2_Feb 22_7.mp4,Full
+251,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_14.mp4,Normal
+252,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_17.mp4,Normal
+253,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_18.mp4,Normal
+254,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_19.mp4,Normal
+255,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_23.mp4,Normal
+256,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_25.mp4,Normal
+257,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_27.mp4,Normal
+258,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_29.mp4,Normal
+259,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_3.mp4,Normal
+260,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_4.mp4,Normal
+261,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_5.mp4,Normal
+262,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 11_8.mp4,Normal
+263,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_1.mp4,Normal
+264,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_11.mp4,Normal
+265,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_12.mp4,Normal
+266,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_13.mp4,Normal
+267,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_15.mp4,Normal
+268,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_19.mp4,Normal
+269,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_2.mp4,Normal
+270,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_20.mp4,Normal
+271,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_21.mp4,Normal
+272,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_22.mp4,Normal
+273,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_24.mp4,Normal
+274,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_26.mp4,Normal
+275,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_27.mp4,Normal
+276,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_3.mp4,Normal
+277,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_4.mp4,Normal
+278,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_8.mp4,Normal
+279,DATASET/TRAIN/Normal/chunk_Cam_1_Feb 18_9.mp4,Normal
+280,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 11_12.mp4,Normal
+281,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 11_2.mp4,Normal
+282,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 11_4.mp4,Normal
+283,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 11_5.mp4,Normal
+284,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_11.mp4,Normal
+285,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_12.mp4,Normal
+286,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_13.mp4,Normal
+287,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_14.mp4,Normal
+288,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_19.mp4,Normal
+289,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_2.mp4,Normal
+290,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_20.mp4,Normal
+291,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_21.mp4,Normal
+292,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_23.mp4,Normal
+293,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_24.mp4,Normal
+294,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_25.mp4,Normal
+295,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_28.mp4,Normal
+296,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_3.mp4,Normal
+297,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_30.mp4,Normal
+298,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_6.mp4,Normal
+299,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_7.mp4,Normal
+300,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_8.mp4,Normal
+301,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 18_9.mp4,Normal
+302,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_1.mp4,Normal
+303,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_10.mp4,Normal
+304,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_11.mp4,Normal
+305,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_12.mp4,Normal
+306,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_13.mp4,Normal
+307,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_14.mp4,Normal
+308,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_16.mp4,Normal
+309,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_20.mp4,Normal
+310,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_21.mp4,Normal
+311,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_22.mp4,Normal
+312,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_23.mp4,Normal
+313,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_25.mp4,Normal
+314,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_27.mp4,Normal
+315,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_28.mp4,Normal
+316,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_3.mp4,Normal
+317,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_4.mp4,Normal
+318,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_8.mp4,Normal
+319,DATASET/TRAIN/Normal/chunk_Cam_2_Feb 22_9.mp4,Normal
+320,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_11.mp4,Normal
+321,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_12.mp4,Normal
+322,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_13.mp4,Normal
+323,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_15.mp4,Normal
+324,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_17.mp4,Normal
+325,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_18.mp4,Normal
+326,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_19.mp4,Normal
+327,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_22.mp4,Normal
+328,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_24.mp4,Normal
+329,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_25.mp4,Normal
+330,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_26.mp4,Normal
+331,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_27.mp4,Normal
+332,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_3.mp4,Normal
+333,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_4.mp4,Normal
+334,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_6.mp4,Normal
+335,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_7.mp4,Normal
+336,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_8.mp4,Normal
+337,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 18_9.mp4,Normal
+338,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_1.mp4,Normal
+339,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_10.mp4,Normal
+340,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_13.mp4,Normal
+341,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_14.mp4,Normal
+342,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_2.mp4,Normal
+343,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_21.mp4,Normal
+344,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_22.mp4,Normal
+345,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_24.mp4,Normal
+346,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_25.mp4,Normal
+347,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_26.mp4,Normal
+348,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_6.mp4,Normal
+349,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_7.mp4,Normal
+350,DATASET/TRAIN/Normal/chunk_Cam_3_Feb 22_8.mp4,Normal
